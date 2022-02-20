@@ -1,0 +1,44 @@
+body {
+    background: url("/Day\ 1/Img/DrumSetBackGround.jpg") 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 1em;
+    color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.instructions{
+    text-align: center;
+    margin: 1rem;
+    color: yellow;
+}
+.keys {
+    display: flex;
+    flex: 1;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.key{
+    border: 2px black double;
+    padding: 1rem;
+    margin: 1rem;
+    transition: all 0.07s;
+    text-align: center;
+    background: rgba(0,0,0,0.4);
+    text-shadow: 0 0 .5rem rgb(243, 181, 10);    
+}
+.playing{
+    transform: scale(1.1);
+    border-color: #ffc600;
+    box-shadow: 0 0 10px #ffc600;
+}
+kbd{
+    color: yellow;
+    font-weight: 700;
+    font-size: 1.5em;
+}
