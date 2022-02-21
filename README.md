@@ -11,4 +11,4 @@ board contains different anime sounds and looks like this:
 ![Alt text](ReadMeImg/DayOneImg.png)
 
 ## Day 2
-
+Consisted of making a clock using vanilla javascript. I learned about transform in CSS and more about transition. I'd like to add some if statements to remove the transition temporarily because when the clock reaches a minute it resets for a few seconds and then goes back to normal.
