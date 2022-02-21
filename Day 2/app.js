@@ -17,7 +17,7 @@ const setDate = () => {
     const hoursDegrees = ((hours / 12) * 360) + ((minutes/60)*30) + 90;
     hourHand.style.transform = `rotate(${hoursDegrees}deg)`;
 
-    //the following if statments makes the clock not reset for a few seconds everytime the minute hand is due to move
+    //the following if statements makes the clock not reset for a few seconds everytime the minute hand is due to move
     if(seconds === 60)
     {
         minHand.classList.remove("transition");
