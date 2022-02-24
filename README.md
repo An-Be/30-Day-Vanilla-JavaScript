@@ -20,3 +20,7 @@ In Day 3 I had to work with CSS variables for the first time, it was interested 
 this.dataset I passed a parameter e into my function and used e.target.dataset to access the datasets in my HTML file. 
 
 ![Alt text](ReadMeImg/DayThreeImg.png)
+
+## Day 4
+
+In day 4 I had to work with array methods, this was a bit a refresher but I will for sure be practicing these more because I know they are important when learning react so I really want to get these down. I personally find reduce the most confusing at times but I am pretty comfortable with the other methods like sort, filter, and map.
