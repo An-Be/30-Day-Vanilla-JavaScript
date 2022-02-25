@@ -24,3 +24,8 @@ this.dataset I passed a parameter e into my function and used e.target.dataset t
 ## Day 4
 
 In day 4 I had to work with array methods, this was a bit a refresher but I will for sure be practicing these more because I know they are important when learning react so I really want to get these down. I personally find reduce the most confusing at times but I am pretty comfortable with the other methods like sort, filter, and map.
+
+## Day 5 
+I got to work with flex-box which was a great refresher. Flex-box can be confusing at times but it is super helpful in the making of websites, it's a great way to make sure things stay aligned and are in the right place. It's my go to when I have a bunch of items and want to make sure they appear it the correct direction. I also used some more transform/transitions to make a more interactive design. To practice what I have learned I am going to try to incorporate transitions into my personal website to add some interactivity and animations.
+
+![Alt text](ReadMeImg/DayFiveImg.png)
