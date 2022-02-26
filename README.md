@@ -29,3 +29,14 @@ In day 4 I had to work with array methods, this was a bit a refresher but I will
 I got to work with flex-box which was a great refresher. Flex-box can be confusing at times but it is super helpful in the making of websites, it's a great way to make sure things stay aligned and are in the right place. It's my go to when I have a bunch of items and want to make sure they appear it the correct direction. I also used some more transform/transitions to make a more interactive design. To practice what I have learned I am going to try to incorporate transitions into my personal website to add some interactivity and animations.
 
 ![Alt text](ReadMeImg/DayFiveImg.png)
+
+## Day 6
+Today was super fun, I got to use the fetch method to retrieve data for search functionality. The data fetched was from a github that had a huge array of cities, states, population amount, and more. I also was able to use regex a bit which I have used in the past but this is the first time I use "gi" g standing for global so it searches all the information and i for insensitive so it uses both uppercase and lowercase. I learned that Fetch retrieves a promise not the actual data so I had to make sure that I added code to make sure the data was properly retrieved and came up on the site by using the then() method which is used to deal with tasks such as API calls.
+```
+fetch(endpoint)
+    .then(rawData => rawData.json())
+    .then(data => cities.push(...data));
+```
+
+![Alt text](ReadMeImg/DaySixImg.gif)
+
