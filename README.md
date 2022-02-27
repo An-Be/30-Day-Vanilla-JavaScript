@@ -40,3 +40,5 @@ fetch(endpoint)
 
 ![Alt text](ReadMeImg/DaySixImg.gif)
 
+## Day 7
+Day 7 was another day for array methods! I got to use array methods I have never used before like some() and every(). I thought it would be difficult because I had never seen them before with some quick help from MDN I was able to complete all the tasks and get the correct answers. 
