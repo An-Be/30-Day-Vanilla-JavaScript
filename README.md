@@ -47,3 +47,9 @@ Day 7 was another day for array methods! I got to use array methods I have never
 Today I worked with HTML5 canvas! It's something I have been wanted to do for a while but never got around to it, I learned a lot about canvas and how to build a very basic drawing board. In the future I want to expand on this and make a full site where users can choose colors, sizes, and stickers. Since I am learning react now I will most likely incorporate it into a react project for further practice.
 
 ![Alt text](ReadMeImg/DayEightImg.png)
+
+## Day 9
+Today I learned about a bunch of different dev tool tricks. I did not know you could do so much with console, I had only been using it to log, but you can do so much more with it. Some stuff are a bit trivial but being able to use console.table() or console.time()
+can be super useful! 
+
+![Alt text](ReadMeImg/DayNineImg.png)
