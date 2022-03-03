@@ -53,3 +53,8 @@ Today I learned about a bunch of different dev tool tricks. I did not know you c
 can be super useful! 
 
 ![Alt text](ReadMeImg/DayNineImg.png)
+
+## Day 10
+Today I made a checklist which has the capability of checking multiple boxes as long as a user is holding down the shift key. This is a feature that is super common and useful nowadays so it was fun to learn how to do it, I was a bit confused at first because I thought I would have to keep track of elements in the DOM but there was a way easier way to go about it by just making a variable that would keep track of elements that are "inbetween" the first and last element selected as long as the shiftKey is pressed down. 
+
+![Alt text](ReadMeImg/DayTen.gif)
